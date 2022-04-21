@@ -182,14 +182,14 @@
 
   
   <url>
-    <loc>https://imgod.me/tags/Hexo/</loc>
+    <loc>https://imgod.me/tags/NexT/</loc>
     <lastmod>2022-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://imgod.me/tags/NexT/</loc>
+    <loc>https://imgod.me/tags/Hexo/</loc>
     <lastmod>2022-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -254,7 +254,7 @@
   </url>
   
   <url>
-    <loc>https://imgod.me/categories/Notes/hexo/</loc>
+    <loc>https://imgod.me/categories/Notes/NexT/</loc>
     <lastmod>2022-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -268,7 +268,7 @@
   </url>
   
   <url>
-    <loc>https://imgod.me/categories/Notes/NexT/</loc>
+    <loc>https://imgod.me/categories/Notes/hexo/</loc>
     <lastmod>2022-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
