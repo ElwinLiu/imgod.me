@@ -205,13 +205,6 @@
   </url>
   
   <url>
-    <loc>https://imgod.me/tags/Office365/</loc>
-    <lastmod>2022-04-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://imgod.me/tags/Hello-World/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -226,14 +219,21 @@
   </url>
   
   <url>
-    <loc>https://imgod.me/tags/English/</loc>
+    <loc>https://imgod.me/tags/unraid/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://imgod.me/tags/unraid/</loc>
+    <loc>https://imgod.me/tags/Office365/</loc>
+    <lastmod>2022-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://imgod.me/tags/English/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -256,6 +256,13 @@
   </url>
   
   <url>
+    <loc>https://imgod.me/categories/Hello-World/</loc>
+    <lastmod>2022-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://imgod.me/categories/Notes/hexo/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -263,7 +270,7 @@
   </url>
   
   <url>
-    <loc>https://imgod.me/categories/Hello-World/</loc>
+    <loc>https://imgod.me/categories/Notes/unraid/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -285,13 +292,6 @@
   
   <url>
     <loc>https://imgod.me/categories/English-Notes/</loc>
-    <lastmod>2022-04-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://imgod.me/categories/Notes/unraid/</loc>
     <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
