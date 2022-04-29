@@ -1,16 +1,17 @@
 ---
 title: hexo博客怎么多台电脑同步更新
-date: 2022-04-30 02:42:50
-abbrlink:
+abbrlink: 63977
 categories:
   - Notes
   - hexo
 tags: hexo
 description: hexo博客怎么多设备同步更新
+date: 2022-04-19 21:44:39
 password:
 abstract:
 message:
 ---
+此方案用于多设备同步以及备份
 #### 旧电脑
 
 ##### 创建新分支
@@ -66,7 +67,7 @@ git pull
 git add -A
 git commit -m "backup"
 git push origin backup
-hexo clean
+hexo cl
 hexo g
 hexo d
 ```
