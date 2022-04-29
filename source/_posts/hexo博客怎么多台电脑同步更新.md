@@ -6,7 +6,7 @@ categories:
   - hexo
 tags: hexo
 description: hexo博客怎么多设备同步更新
-date: 2022-04-19 21:44:39
+date: 2022-01-16 23:44:39
 password:
 abstract:
 message:
