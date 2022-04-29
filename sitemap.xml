@@ -212,14 +212,14 @@
   </url>
   
   <url>
-    <loc>https://imgod.me/tags/Hello-World/</loc>
+    <loc>https://imgod.me/tags/hexo/</loc>
     <lastmod>2022-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://imgod.me/tags/hexo/</loc>
+    <loc>https://imgod.me/tags/Hello-World/</loc>
     <lastmod>2022-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -256,6 +256,13 @@
   </url>
   
   <url>
+    <loc>https://imgod.me/categories/Notes/E5/</loc>
+    <lastmod>2022-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://imgod.me/categories/Notes/hexo/</loc>
     <lastmod>2022-04-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -278,13 +285,6 @@
   
   <url>
     <loc>https://imgod.me/categories/Notes/unraid/</loc>
-    <lastmod>2022-04-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://imgod.me/categories/Notes/E5/</loc>
     <lastmod>2022-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
