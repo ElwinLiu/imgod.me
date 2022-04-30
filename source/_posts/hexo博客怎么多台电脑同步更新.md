@@ -4,7 +4,7 @@ abbrlink: 63977
 categories:
   - Notes
   - hexo
-tags: hexo
+tags: Hexo
 description: hexo博客怎么多设备同步更新
 date: 2022-01-16 23:44:39
 password:
